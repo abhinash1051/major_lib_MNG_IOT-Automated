@@ -1,0 +1,222 @@
+[
+  {
+    "_id": "B001",
+    "title": "Introduction to Algorithms",
+    "author": "Thomas H. Cormen",
+    "isbn": "9780262033848",
+    "barcode": "B00001",
+    "totalCopies": 5,
+    "availableCopies": 3,
+    "location": { "department": "CSE", "shelf": "A", "row": "1", "cell": "2" },
+    "createdAt": "2024-01-10T10:00:00.000Z"
+  },
+  {
+    "_id": "B002",
+    "title": "Clean Code",
+    "author": "Robert C. Martin",
+    "isbn": "9780132350884",
+    "barcode": "B00002",
+    "totalCopies": 3,
+    "availableCopies": 1,
+    "location": { "department": "CSE", "shelf": "B", "row": "2", "cell": "3" },
+    "createdAt": "2024-01-12T11:00:00.000Z"
+  },
+  {
+    "_id": "B003",
+    "title": "Design Patterns",
+    "author": "Erich Gamma",
+    "isbn": "9780201633610",
+    "barcode": "B00003",
+    "totalCopies": 2,
+    "availableCopies": 2,
+    "location": { "department": "CSE", "shelf": "C", "row": "1", "cell": "1" },
+    "createdAt": "2024-01-14T09:30:00.000Z"
+  },
+  {
+    "_id": "B004",
+    "title": "Computer Networks",
+    "author": "Andrew S. Tanenbaum",
+    "isbn": "9780132126953",
+    "barcode": "B00004",
+    "totalCopies": 4,
+    "availableCopies": 4,
+    "location": { "department": "ECE", "shelf": "N", "row": "3", "cell": "4" },
+    "createdAt": "2024-02-01T08:00:00.000Z"
+  },
+  {
+    "_id": "B005",
+    "title": "Digital Signal Processing",
+    "author": "John G. Proakis",
+    "isbn": "9780131873743",
+    "barcode": "B00005",
+    "totalCopies": 6,
+    "availableCopies": 5,
+    "location": { "department": "ECE", "shelf": "D", "row": "4", "cell": "2" },
+    "createdAt": "2024-02-10T12:15:00.000Z"
+  },
+  {
+    "_id": "B006",
+    "title": "Operating System Concepts",
+    "author": "Abraham Silberschatz",
+    "isbn": "9781119456339",
+    "barcode": "B00006",
+    "totalCopies": 5,
+    "availableCopies": 2,
+    "location": { "department": "CSE", "shelf": "O", "row": "2", "cell": "5" },
+    "createdAt": "2024-02-18T10:45:00.000Z"
+  },
+  {
+    "_id": "B007",
+    "title": "Database System Concepts",
+    "author": "Abraham Silberschatz",
+    "isbn": "9780073523323",
+    "barcode": "B00007",
+    "totalCopies": 7,
+    "availableCopies": 6,
+    "location": { "department": "CSE", "shelf": "DB", "row": "5", "cell": "1" },
+    "createdAt": "2024-03-01T09:00:00.000Z"
+  },
+  {
+    "_id": "B008",
+    "title": "Artificial Intelligence: A Modern Approach",
+    "author": "Stuart Russell",
+    "isbn": "9780134610994",
+    "barcode": "B00008",
+    "totalCopies": 3,
+    "availableCopies": 3,
+    "location": { "department": "CSE", "shelf": "AI", "row": "1", "cell": "3" },
+    "createdAt": "2024-03-05T09:20:00.000Z"
+  },
+  {
+    "_id": "B009",
+    "title": "Machine Learning",
+    "author": "Tom M. Mitchell",
+    "isbn": "9780070428072",
+    "barcode": "B00009",
+    "totalCopies": 4,
+    "availableCopies": 4,
+    "location": { "department": "CSE", "shelf": "ML", "row": "2", "cell": "6" },
+    "createdAt": "2024-03-10T10:00:00.000Z"
+  },
+  {
+    "_id": "B010",
+    "title": "Deep Learning",
+    "author": "Ian Goodfellow",
+    "isbn": "9780262035613",
+    "barcode": "B00010",
+    "totalCopies": 4,
+    "availableCopies": 2,
+    "location": { "department": "CSE", "shelf": "DL", "row": "3", "cell": "1" },
+    "createdAt": "2024-03-15T14:00:00.000Z"
+  },
+  {
+    "_id": "B011",
+    "title": "Strength of Materials",
+    "author": "S. Ramamrutham",
+    "isbn": "9788121901048",
+    "barcode": "B00011",
+    "totalCopies": 6,
+    "availableCopies": 5,
+    "location": { "department": "ME", "shelf": "M", "row": "1", "cell": "1" },
+    "createdAt": "2024-04-01T08:00:00.000Z"
+  },
+  {
+    "_id": "B012",
+    "title": "Fluid Mechanics",
+    "author": "Frank M. White",
+    "isbn": "9780073398273",
+    "barcode": "B00012",
+    "totalCopies": 5,
+    "availableCopies": 5,
+    "location": { "department": "ME", "shelf": "F", "row": "2", "cell": "2" },
+    "createdAt": "2024-04-10T11:30:00.000Z"
+  },
+  {
+    "_id": "B013",
+    "title": "Electrical Machines",
+    "author": "P.S. Bimbhra",
+    "isbn": "9788185095555",
+    "barcode": "B00013",
+    "totalCopies": 4,
+    "availableCopies": 3,
+    "location": { "department": "EE", "shelf": "E", "row": "3", "cell": "4" },
+    "createdAt": "2024-04-15T13:00:00.000Z"
+  },
+  {
+    "_id": "B014",
+    "title": "Power System Analysis",
+    "author": "John J. Grainger",
+    "isbn": "9780070612938",
+    "barcode": "B00014",
+    "totalCopies": 3,
+    "availableCopies": 2,
+    "location": { "department": "EE", "shelf": "P", "row": "4", "cell": "5" },
+    "createdAt": "2024-04-20T16:20:00.000Z"
+  },
+  {
+    "_id": "B015",
+    "title": "Structural Analysis",
+    "author": "R.C. Hibbeler",
+    "isbn": "9780134543155",
+    "barcode": "B00015",
+    "totalCopies": 6,
+    "availableCopies": 6,
+    "location": { "department": "CIVIL", "shelf": "S", "row": "1", "cell": "3" },
+    "createdAt": "2024-05-01T09:00:00.000Z"
+  },
+  {
+    "_id": "B016",
+    "title": "Surveying",
+    "author": "B.C. Punmia",
+    "isbn": "9789382609818",
+    "barcode": "B00016",
+    "totalCopies": 5,
+    "availableCopies": 4,
+    "location": { "department": "CIVIL", "shelf": "SV", "row": "2", "cell": "1" },
+    "createdAt": "2024-05-05T10:15:00.000Z"
+  },
+  {
+    "_id": "B017",
+    "title": "Compiler Design",
+    "author": "Alfred V. Aho",
+    "isbn": "9780321486813",
+    "barcode": "B00017",
+    "totalCopies": 4,
+    "availableCopies": 4,
+    "location": { "department": "CSE", "shelf": "CD", "row": "3", "cell": "2" },
+    "createdAt": "2024-05-10T12:00:00.000Z"
+  },
+  {
+    "_id": "B018",
+    "title": "Data Communications and Networking",
+    "author": "Behrouz A. Forouzan",
+    "isbn": "9780073376226",
+    "barcode": "B00018",
+    "totalCopies": 5,
+    "availableCopies": 5,
+    "location": { "department": "CSE", "shelf": "DCN", "row": "1", "cell": "4" },
+    "createdAt": "2024-05-15T14:30:00.000Z"
+  },
+  {
+    "_id": "B019",
+    "title": "Discrete Mathematics and Its Applications",
+    "author": "Kenneth H. Rosen",
+    "isbn": "9780073383095",
+    "barcode": "B00019",
+    "totalCopies": 6,
+    "availableCopies": 5,
+    "location": { "department": "CSE", "shelf": "DM", "row": "2", "cell": "3" },
+    "createdAt": "2024-05-20T15:45:00.000Z"
+  },
+  {
+    "_id": "B020",
+    "title": "Numerical Methods",
+    "author": "R.K. Jain",
+    "isbn": "9789383819186",
+    "barcode": "B00020",
+    "totalCopies": 5,
+    "availableCopies": 5,
+    "location": { "department": "CSE", "shelf": "NM", "row": "3", "cell": "6" },
+    "createdAt": "2024-05-25T16:00:00.000Z"
+  }
+]

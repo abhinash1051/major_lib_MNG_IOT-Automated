@@ -1,0 +1,81 @@
+[
+  {
+    "id": "BR100",
+    "studentId": "S-ABHI",
+    "rollNo": "0322",
+    "bookId": "B010",
+    "title": "Introduction to Algorithms",
+    "barcode": "BK-010",
+    "borrowDate": "2025-11-10T00:00:00.000Z",
+    "dueDate": "2025-11-24T00:00:00.000Z",
+    "returned": false
+  },
+  {
+    "id": "BR101",
+    "studentId": "S-ABHI",
+    "rollNo": "0322",
+    "bookId": "B011",
+    "title": "Clean Code",
+    "barcode": "BK-011",
+    "borrowDate": "2025-10-20T00:00:00.000Z",
+    "dueDate": "2025-10-30T00:00:00.000Z",
+    "returned": false
+  },
+  {
+    "id": "BR102",
+    "studentId": "S-ABHI",
+    "rollNo": "0322",
+    "bookId": "B012",
+    "title": "Design Patterns",
+    "barcode": "BK-012",
+    "borrowDate": "2025-10-01T00:00:00.000Z",
+    "dueDate": "2025-10-15T00:00:00.000Z",
+    "returned": true,
+    "returnDate": "2025-10-14T00:00:00.000Z"
+  },
+    {
+        "id": "BR001",
+        "studentId": "S001",
+        "rollNo": "CS2021001",
+        "bookId": "B001",
+        "title": "Data Structures and Algorithms",
+        "barcode": "BK-0001",
+        "borrowDate": "2025-11-01T00:00:00.000Z",
+        "dueDate": "2025-11-15T00:00:00.000Z",
+        "returned": false
+    },
+    {
+        "id": "BR002",
+        "studentId": "S001",
+        "rollNo": "CS2021001",
+        "bookId": "B002",
+        "title": "Operating Systems Concepts",
+        "barcode": "BK-0002",
+        "borrowDate": "2025-10-20T00:00:00.000Z",
+        "dueDate": "2025-11-03T00:00:00.000Z",
+        "returned": false
+    },
+    {
+        "id": "BR003",
+        "studentId": "S002",
+        "rollNo": "CS2021002",
+        "bookId": "B003",
+        "title": "Computer Networks",
+        "barcode": "BK-0003",
+        "borrowDate": "2025-10-01T00:00:00.000Z",
+        "dueDate": "2025-10-15T00:00:00.000Z",
+        "returned": true,
+        "returnDate": "2025-10-14T00:00:00.000Z"
+    },
+    {
+        "id": "BR004",
+        "studentId": "S002",
+        "rollNo": "CS2021002",
+        "bookId": "B004",
+        "title": "Database System Concepts",
+        "barcode": "BK-0004",
+        "borrowDate": "2025-11-10T00:00:00.000Z",
+        "dueDate": "2025-11-24T00:00:00.000Z",
+        "returned": false
+    }
+]

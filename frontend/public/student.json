@@ -1,0 +1,107 @@
+[
+    {
+        "photo": "https://example.com/photos/student1.jpg",
+        "name": "Aarav Sharma",
+        "rollNo": "21ECE001",
+        "class": "ECE",
+        "rfidUID": "AB12CD34",
+        "year": "3rd Year",
+        "batch": "2022-2026",
+        "actions": {
+            "edit": true,
+            "delete": true
+        }
+    },
+    {
+        "photo": "https://example.com/photos/student2.jpg",
+        "name": "Riya Verma",
+        "rollNo": "21CSE014",
+        "class": "CSE",
+        "rfidUID": "EF56GH78",
+        "year": "3rd Year",
+        "batch": "2022-2026",
+        "actions": {
+            "edit": true,
+            "delete": true
+        }
+    },
+    {
+        "photo": "https://example.com/photos/student3.jpg",
+        "name": "Karan Singh",
+        "rollNo": "20IT022",
+        "class": "IT ",
+        "rfidUID": "IJ90KL12",
+        "year": "4th Year",
+        "batch": "2021-2025",
+        "actions": {
+            "edit": true,
+            "delete": true
+        }
+    },
+    {
+        "photo": "https://example.com/photos/student4.jpg",
+        "name": "Sneha Gupta",
+        "rollNo": "22ECE009",
+        "class": "ECE",
+        "rfidUID": "MN34OP56",
+        "year": "2nd Year",
+        "batch": "2023-2027",
+        "actions": {
+            "edit": true,
+            "delete": true
+        }
+    },
+    {
+        "photo": "https://example.com/photos/student5.jpg",
+        "name": "Aditya Kumar",
+        "rollNo": "19CSE018",
+        "class": "CSE",
+        "rfidUID": "QR78ST90",
+        "year": "5th Year",
+        "batch": "2020-2024",
+        "actions": {
+            "edit": true,
+            "delete": true
+        }
+    },
+    {
+        "photo": "https://example.com/photos/student6.jpg",
+        "name": "Pooja Reddy",
+        "rollNo": "21IT005",
+        "class": "IT",
+        "rfidUID": "UV12WX34",
+        "year": "3rd Year",
+        "batch": "2022-2026",
+        "actions": {
+            "edit": true,
+            "delete": true
+        }
+    },
+    {
+        "photo": "https://example.com/photos/student7.jpg",
+        "name": "Rahul Mehta",
+        "rollNo": "20ECE011",
+        "class": "ECE",
+        "rfidUID": "YZ56AB78",
+        "year": "4th Year",
+        "batch": "2021-2025",
+        "actions": {
+            "edit": true,
+            "delete": true
+        }
+    },
+    {
+        "photo": "",
+        "name": "Abhinesh Kumar",
+        "rollNo": "0322",
+        "class": "CSE",
+        "rfidUID": "c340f27",
+        "year": "2nd Year",
+        "batch": "2023-2027",
+        "email": "abhinesh@example.com",
+        "actions": {
+            "edit": true,
+            "delete": true
+        }
+    }
+]
